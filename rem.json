@@ -1,0 +1,534 @@
+{
+  "words" : [ {
+    "entry" : {
+      "id" : 1,
+      "form" : "yum"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "私" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 2,
+      "form" : "rum"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "俺" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "似てる",
+      "entry" : {
+        "id" : 1,
+        "form" : "Yum"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 3,
+      "form" : "sum"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "僕" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "語義",
+      "text" : "「ぼくちん」なども含む"
+    } ],
+    "variations" : [ {
+      "title" : "",
+      "form" : "Rum"
+    } ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 4,
+      "form" : "wum"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "我", "我輩", "吾" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ {
+      "title" : "",
+      "text" : ""
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 5,
+      "form" : "goj"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "手" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 6,
+      "form" : "tart"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "足" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 7,
+      "form" : "tabe"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "見る" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ {
+      "title" : "英語",
+      "text" : "「Watch」"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 8,
+      "form" : "kav"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "食べる" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 9,
+      "form" : "meig"
+    },
+    "translations" : [ {
+      "title" : "動詞",
+      "forms" : [ "飲む" ]
+    } ],
+    "tags" : [ "動詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 10,
+      "form" : "kharow"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "リンゴ" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "語義",
+      "text" : "青リンゴは緑のリンゴ(vairm kharow)。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 11,
+      "form" : "vairm"
+    },
+    "translations" : [ {
+      "title" : "色",
+      "forms" : [ "緑" ]
+    } ],
+    "tags" : [ "色" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 12,
+      "form" : "ma"
+    },
+    "translations" : [ {
+      "title" : "助詞",
+      "forms" : [ "は" ]
+    } ],
+    "tags" : [ "助詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 13,
+      "form" : "me"
+    },
+    "translations" : [ {
+      "title" : "助詞",
+      "forms" : [ "を" ]
+    } ],
+    "tags" : [ "助詞" ],
+    "contents" : [ {
+      "title" : "概要",
+      "text" : "Help me!のミーではないざんす"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 14,
+      "form" : "mo"
+    },
+    "translations" : [ {
+      "title" : "助詞",
+      "forms" : [ "に,へ" ]
+    } ],
+    "tags" : [ "助詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 15,
+      "form" : "Muaro"
+    },
+    "translations" : [ {
+      "title" : "固有名詞",
+      "forms" : [ "ムアーロ(神)" ]
+    } ],
+    "tags" : [ "固有名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 16,
+      "form" : "reijo"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "花" ]
+    } ],
+    "tags" : [ "くぐり", "花" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 17,
+      "form" : "Kofj"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "コーヒー" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 18,
+      "form" : "mur'iga"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ミルク" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 19,
+      "form" : "ponle logum"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "キノコ" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 20,
+      "form" : "logum"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "耳" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "構成語",
+      "entry" : {
+        "id" : 19,
+        "form" : "ponle logum"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 21,
+      "form" : "ponle"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "木" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "構成語",
+      "entry" : {
+        "id" : 19,
+        "form" : "ponle logum"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 22,
+      "form" : "du"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "これ" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 23,
+      "form" : "zu"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "それ" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 24,
+      "form" : "zhu"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "どれ" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 25,
+      "form" : "kau"
+    },
+    "translations" : [ {
+      "title" : "代名詞",
+      "forms" : [ "あれ" ]
+    } ],
+    "tags" : [ "代名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 26,
+      "form" : "khalo"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "日" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 27,
+      "form" : "khalia"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "天", "天国", "天地", "天界" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 28,
+      "form" : "fintu"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "指" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "概要",
+      "text" : "Finger→finge→fingu→finku→fintu"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 29,
+      "form" : "qomi"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "腕" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "名詞",
+      "text" : "チョミ"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 30,
+      "form" : "qongo"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "肩" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "概要",
+      "text" : "クォンゴと発音する。"
+    } ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 31,
+      "form" : "mas"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "低" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 32,
+      "form" : "rou"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "ロウ" ]
+    } ],
+    "tags" : [ ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 33,
+      "form" : "des"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "タレ" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ {
+      "title" : "概要",
+      "text" : "甘だれなども。"
+    } ],
+    "variations" : [ {
+      "title" : "甘い",
+      "form" : "korides"
+    } ],
+    "relations" : [ {
+      "title" : "変化",
+      "entry" : {
+        "id" : 33,
+        "form" : "des"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 34,
+      "form" : "kori"
+    },
+    "translations" : [ {
+      "title" : "形容詞",
+      "forms" : [ "甘い" ]
+    } ],
+    "tags" : [ "形容詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ {
+      "title" : "変化",
+      "entry" : {
+        "id" : 33,
+        "form" : "des"
+      }
+    } ]
+  }, {
+    "entry" : {
+      "id" : 35,
+      "form" : "tour"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "学校" ]
+    } ],
+    "tags" : [ "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  }, {
+    "entry" : {
+      "id" : 36,
+      "form" : "rezoch"
+    },
+    "translations" : [ {
+      "title" : "名詞",
+      "forms" : [ "アーティーチョーク" ]
+    } ],
+    "tags" : [ "野菜", "名詞" ],
+    "contents" : [ ],
+    "variations" : [ ],
+    "relations" : [ ]
+  } ]
+}
